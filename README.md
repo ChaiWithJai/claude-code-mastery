@@ -253,8 +253,8 @@ The gap between "AI user" and "AI architect" is smaller than you think.
 ---
 
 <p align="center">
-<strong>Built by <a href="https://linkedin.com/in/jaikbhagat">Jai Bhagat</a></strong><br>
-<em>Product Manager • AI Learning Design • 17 Custom Claude Code Skills</em>
+<strong>Built by <a href="https://linkedin.com/in/chaiwithjai">Jai Bhagat</a></strong><br>
+<em>Agent Engineer (LLM Observability + Evaluations) • Instructional Designer • On a mission to teach 20 million people</em>
 </p>
 
 <p align="center">
