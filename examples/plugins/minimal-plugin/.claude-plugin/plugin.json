@@ -1,0 +1,9 @@
+{
+  "name": "minimal-plugin",
+  "version": "1.0.0",
+  "description": "A minimal Claude Code plugin demonstrating the basic structure",
+  "author": "Your Name",
+  "setup": "./setup.sh",
+  "keywords": ["example", "minimal", "template"],
+  "repository": "https://github.com/you/minimal-plugin"
+}
