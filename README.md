@@ -246,7 +246,7 @@ The gap between "AI user" and "AI architect" is smaller than you think.
 
 ## Work With Me
 
-**For individuals**: This free course covers the full livestream content. If you want personalized coaching on encoding your specific domain expertise, **[reach out](https://linkedin.com/in/jaikbhagat)**.
+**For individuals**: This free course covers the full livestream content. If you want personalized coaching on encoding your specific domain expertise, **[reach out](https://linkedin.com/in/chaiwithjai)**.
 
 **For teams**: Team packages include custom skill development for your codebase, live workshops, and adoption tracking. **[Contact for team pricing](mailto:jai@chaiwithjai.com?subject=Claude%20Code%20Mastery%20-%20Team)**.
 
